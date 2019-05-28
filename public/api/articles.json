@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Developing advanced React-Redux applications",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum magna mauris, malesuada gravida diam accumsan a.",
+    "tags": [
+      {
+        "id": 1,
+        "name": "reactjs"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Cras ac neque sit amet arcu aliquam convallis id id justo",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum magna mauris, malesuada gravida diam accumsan a. Ut sed laoreet lectus, a vulputate ante. ",
+    "tags": [
+      {
+        "id": 1,
+        "name": "reactjs"
+      },
+      {
+        "id": 2,
+        "name": "nodejs"
+      }
+    ]
+  }
+]

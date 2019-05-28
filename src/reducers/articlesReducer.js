@@ -1,7 +1,7 @@
 import { SET_ARTICLES } from "../action-types/articles";
 
 const initialState = {
-  articles: []
+  articles: [{ title: "name" }]
 };
 export const articlesReducer = (state = initialState, { type, payload }) => {
   switch (type) {
